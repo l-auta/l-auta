@@ -9,6 +9,6 @@ I'm Lisa, a web developer with 6 months of experience learning full-stack develo
 Feel free to explore my repositories and connect with me! 🚀
 
 
-[![Lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-auta&show_icons=true&theme=dracula)](https://github.com/l-auta/github-readme-stats)
+[![Lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-auta&show_icons=true&theme=dark)](https://github.com/l-auta/github-readme-stats)
 
 
