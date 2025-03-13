@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋,
 
-<!--
-**l-auta/l-auta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lisa, a web developer with 6 months of experience learning full-stack development. My main passion lies in frontend development 💻, where I enjoy building interactive and user-friendly web applications. I work primarily with HTML 🌐, CSS 🎨, JavaScript ⚡, and I'm diving into frameworks like React 🔄. I'm always eager to learn more and grow my skills!
 
-Here are some ideas to get you started:
+- 🔧 Currently learning: Full-stack development
+- 💡 Focused on: Frontend technologies and UI/UX design
+- 📚 Always improving and exploring new web development trends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories and connect with me! 🚀
+
+
+[![Lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-auta&show_icons=true&theme=dracula)](https://github.com/l-auta/github-readme-stats)
+
+
